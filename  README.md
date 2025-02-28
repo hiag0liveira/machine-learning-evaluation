@@ -76,8 +76,8 @@ machine-learning-evaluation/
 No terminal, execute:
 
 ```bash
-git clone https://github.com/hiag0liveira/A1-DataMiningVideoGameSales.git
-cd A1-DataMiningVideoGameSales
+git clone https://github.com/hiag0liveira/machine-learning-evaluation.git
+cd machine-learning-evaluation
 ```
 
 ### **2. Criar e Ativar o Ambiente Virtual (Recomendado)**
